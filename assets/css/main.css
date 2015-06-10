@@ -3316,7 +3316,7 @@
 		/* Section/Article */
 
 			header br {
-				display: none;
+				/*display: none;*/
 			}
 
 			header.major {
